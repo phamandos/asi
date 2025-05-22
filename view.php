@@ -21,16 +21,12 @@
 					<input type="text" name="name">
 				</div>
 				<div class="jarak">
-					<label>Slug</label>
-					<input type="text" name="slug">
-				</div>
-				<div class="jarak">
 					<label>Is Project?</label>
 					<input type="checkbox" name="isproject" value="1">
 				</div>
 				<div class="jarak">
 					<label>Self Capture</label>
-					<input type="file" name="self_capture">
+					<input type="text" name="self_capture">
 				</div>
 				<div class="jarak">
 					<label>CLient Prefix</label>
